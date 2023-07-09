@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Harsha Nandini, a passionate Web Developer
 
 <!--
 **HarshaNandini/HarshaNandini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
