@@ -1,6 +1,6 @@
-### Hi there 👋 I am Harsha Nandini, a passionate Full-stack Web Developer
+### Hi there 👋 I am Harsha Nandini, a Full-stack Developer
 
-#### Java | HTML | CSS | JavaScript | NodeJS | ExpressJS | ReactJS | AngularJS | SQL | SpringBoot | Hibernate
+#### Java | HTML | CSS | JavaScript | NodeJS | ExpressJS | AngularJS | SQL | SpringBoot
 <!--
 **HarshaNandini/HarshaNandini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
